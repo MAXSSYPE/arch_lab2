@@ -1,0 +1,2 @@
+/home/max/calculator/CMakeFiles/rebuild_cache.dir
+/home/max/calculator/CMakeFiles/edit_cache.dir
